@@ -5,6 +5,7 @@ This project is a simple web application that helps notify the status of student
 
 ## Features
 - **Login**: Students can log in using their student ID and password.
+![Login Image](login.png)
 - **Report Status**: Students can report their status (safe or in danger).
 - **View List**: Users can see a list of students along with their current status.
 - **Register Account**: New students can register for an account.
