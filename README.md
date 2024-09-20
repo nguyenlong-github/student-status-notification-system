@@ -4,11 +4,15 @@
 This project is a simple web application that helps notify the status of students after a disaster occurs. The application allows students to log in, report their status (safe or in danger), and view the status list of other classmates.
 
 ## Features
+- **Register Account**: New students can register for an account.
+![Register Image](register.png)
 - **Login**: Students can log in using their student ID and password.
 ![Login Image](login.png)
-- **Report Status**: Students can report their status (safe or in danger).
 - **View List**: Users can see a list of students along with their current status.
-- **Register Account**: New students can register for an account.
+![View Image](home.png)
+- **Report Status**: Students can report their status (safe or in danger).
+![Report Image](report.png)
+
 
 ## Technologies Used
 - PHP
